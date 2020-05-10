@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588807997 source:c:\quangawesome2\p23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

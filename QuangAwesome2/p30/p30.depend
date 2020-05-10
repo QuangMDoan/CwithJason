@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589135443 source:c:\quangawesome2\p30\main.c
+	<stdio.h>
+	<string.h>
+

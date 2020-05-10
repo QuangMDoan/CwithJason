@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588358660 source:c:\quangawesome2\p6\main.c
+	<stdio.h>
+	<stdlib.h>
+
