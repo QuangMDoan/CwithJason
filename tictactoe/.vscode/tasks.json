@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "build tic tac toe",
+			"command": "C:/cygwin64/bin/gcc.exe",
+			"args": [
+				"-g",
+				"tictactoe.c",
+				"-o",
+				"tictactoe.exe"
+			],
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
